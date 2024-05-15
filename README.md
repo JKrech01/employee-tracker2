@@ -1,5 +1,6 @@
-# employee-tracker2
-# 12 SQL: Employee Tracker
+# Employee-Tracker2 Module 12: SQL
+
+[text](../../lessons/12-SQL/02-Challenge/README.md)
 
 ## Your Task
 
