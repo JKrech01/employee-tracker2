@@ -1,10 +1,4 @@
 {
-  "dependencies": {
-    "inquirer": "^8.2.4",
-    "pg": "^8.11.5"
-  }
-};
-{
   "name": "sequelize-starter",
   "version": "1.0.0",
   "description": "",
@@ -17,7 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.4.5",
-  //  "express": "^4.19.2",
+    "inquirer": "^8.2.6",
+    "pg": "^8.11.5",
     "sequelize": "^6.37.3"
   }
 }
